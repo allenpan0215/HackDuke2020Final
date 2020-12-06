@@ -1,0 +1,184 @@
+
+
+body {
+   font-family: "Montserrat";
+   text-align: center;
+}
+h1, h2, h3, h4, h5, h6{
+font-family: "Montserrat";
+
+}
+
+h1, h2, h3{
+  font-family: 'Merriweather';
+}
+
+
+h1, h3{
+  padding-bottom: 3%;
+}
+
+
+/* Section */
+.navbar-section{
+  background-color: #61b15a;
+}
+.body-section{
+  padding: 3% 7%;
+}
+
+.colored-section {
+  background-color: #61b15a;
+  color: #fff;
+}
+.white-section{
+  background: white;
+}
+.footer-section{
+  padding:1% 0;
+}
+/* Navigation Bar */
+
+
+ .navbar-brand{
+   font-family: "Ubuntu";
+   font-size: 1.5rem;
+   font-weight: bold;
+
+ }
+
+ .nav-item{
+   text-align: center;
+   padding: 0 10px;
+color: #0a043c;
+ }
+
+ .nav-link{
+   font-size: 1  rem;
+   font-family: "Montserrat";
+   font-weight: 400;
+
+
+ }
+
+
+
+ /* Title Section  */
+
+#title .container-fluid{
+
+   text-align: left;
+}
+
+
+/* Welcome and More Info go to Section */
+
+.photo-1{
+  width: 60%;
+}
+.photo-2{
+  width: 40%;
+}
+.button-text{
+  color: #28a745;
+}
+.button-text:hover{
+  color:#28a745;
+}
+.btn-lg{
+  padding:0;
+}
+/* Product Search go to Section */
+
+.photo-3{
+border-radius: 100%;
+}
+.photo-4{
+  border-radius: 100%;
+width: 60%;
+}
+.button-text-light{
+  color:white;
+}
+.button-text-light:hover{
+  color:white;
+}
+
+
+
+
+.calc-button{
+  margin-top:3%;
+}
+/* Footer Section */
+
+
+.social-icon {
+  margin: 20px 10px;
+}
+
+
+/* More Info */
+
+/* Our Mission */
+.our-mission-info{
+width:60%;
+margin: 3% auto 3% auto;
+}
+
+.allen {
+  width: 40%;
+  margin: 0 auto;
+}
+.alex{
+  width: 38.1%;
+  margin: 0 auto;
+}
+.eric{
+  width: 42.2%;
+  margin: 0 auto;
+}
+.matt{
+  width: 38.3%;
+  margin: 0 auto;
+}
+.mark{
+  width: 40%;
+  margin: 0 auto;
+}
+#who-we-are .card{
+  background-color: #61b15a;
+}
+#who-we-are p{
+  font-size: 1.5rem;
+}
+#who-we-are .col-lg-4{
+  padding: 15px;
+}
+
+
+/* Product Search */
+#data-start h2{
+  margin-bottom: 3%;
+}
+
+#item-search button{
+  position: relative;
+  top: 40%;
+  padding: 3% 7%;
+}
+
+.profile-form{
+  padding-bottom: 6%;
+}
+
+#product-listing h2{
+  width: 60%;
+  margin: auto;
+  padding: 3%;
+}
+#product-listing h1{
+  width: 60%;
+  margin: auto;
+  padding-top: 3%;
+}
