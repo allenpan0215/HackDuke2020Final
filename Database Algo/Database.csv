@@ -1,0 +1,39 @@
+company,brand,product,Food category,amount(kg),packaging material,packaging cost(unit),distance(km),footprint
+Costco,Kirkland,Hot Dog,Wheat & Rye (Bread)/Beef (beef herd),0.02/0.09,paper,0.02,50,3.854,0.001,0.79,4.645
+Costco,Kirkland,"Muffins, 6 ct.",Wheat & Rye (Bread)/Cane Sugar/Soybean Oil,0.95/0.06/0.02,plastic,0.15,25,1.016,0.059,0.395,1.47
+Costco,Kirkland,Chicken Street Taco Kit,Maize (Meal)/Soybean Oil/Tomatoes/Other Vegetables/Citrus Fruit/Poultry Meat/Cheese,0.25/0.05/0.1/0.4/0.1/0.65/0.2,plastic,0.15,100,5.565,0.059,1.58,7.204
+Costco,Kirkland,"Rastelli USDA Choice Black Angus NY CC Strip Steak 10 oz, 7.5 lbs.",Beef (beef herd),0.28,plastic,0.05,50,11.928,0.02,0.79,12.738
+Costco,Kirkland,Organic Kiwi Fruit (2 lb container),Other Fruit,0.9,plastic,0.1,150,0.36,0.039,2.37,2.769
+Costco,Kirkland,"Organic Premium Mushrooms, Large White, 24 oz",Other Vegetables,0.68,plastic,0.08,75,0.204,0.032,1.185,1.421
+Costco,Kirkland,"Spinach & Mozzarella Ravioli, 56 oz.",Wheat & Rye (Bread)/Other Vegetables/Cheese,0.76/0.2/0.2,plastic,0.05,50,4.04,0.02,0.79,4.85
+Costco,Kirkland,Churro,Wheat & Rye (Bread)/Cane Sugar/Soybean Oil,0.25/0.05/0.03,paper,0.02,25,0.329,0.001,0.395,0.725
+Walmart,Great Value,Bananas,Bananas,0.94,plastic,0.01,100,0.376,0.004,1.58,1.96
+Walmart,Great Value,"Frozen Mixed Fruit, 16 oz.",Berries & Grapes/Other Fruit,0.15/0.3,plastic,0.1,75,0.225,0.039,1.185,1.449
+Walmart,Great Value,"Broccoli Stir-Fry, 20 oz.",Root Vegetables/Other Vegetables,0.1/0.45,plastic,0.1,25,0.155,0.039,0.395,0.589
+Walmart,Great Value,"Deli Style Wedges Seasoned Potatoes, 32 oz.",Root Vegetables,0.91,plastic,0.1,25,0.182,0.039,0.395,0.616
+Walmart,Great Value,"Fully Cooked Popcorn Chicken, 25.5 oz.",Wheat & Rye (Bread)/Poultry Meat/Soybean Oil,.13/.59/0.03,plastic,0.1,50,1.895,0.039,0.79,2.724
+PepsiCo,Pepsi,"Pepsi, 20 oz.",Cane Sugar,0.04,plastic,0.05,50,0.02,0.02,0.79,0.83
+PepsiCo,FritoLay,"Lays, 10 oz.",Root Vegetables/Rapeseed Oil,0.24/0.04,plastic,0.03,25,0.148,0.012,0.395,0.555
+PepsiCo,FritoLay,"Fritos, 10 oz.",Wheat & Rye (Bread)/Maize (Meal)/Rapeseed Oil,0.12/0.12/0.04,plastic,0.03,25,0.292,0.012,0.395,0.699
+Nestle,Digiorno,Cheese Stuffed Pepperoni Pizza,Wheat & Rye (Bread)/Tomatoes/Pig Meat/Cheese,0.5/0.15/0.1/0.31,cardboard,0.1,50,6.086,0.065,0.79,6.941
+Nestle,California Pizza Kitchen,BBQ Chicken Crispy Thin Crust Pizza,Wheat & Rye (Bread)/Olive Oil/Tomatoes/Poultry Meat/Cheese,0.5/0.03/0.15/0.1/0.3,cardboard,0.1,50,5.875,0.065,0.79,6.73
+Nestle,Häagen-Dazs,"Vanilla Ice Cream, 28 fl. oz.",Cane Sugar/Milk,0.10/0.73,paper,0.1,75,1.364,0.003,1.185,2.552
+Costco,Kirkland,Hot Dog,Wheat & Rye (Bread)/Beef (beef herd),0.02/0.09,paper,0.02,50,3.854,0.001,0.79,4.645
+Costco,Kirkland,"Muffins, 6 ct.",Wheat & Rye (Bread)/Cane Sugar/Soybean Oil,0.95/0.06/0.02,plastic,0.15,25,1.016,0.059,0.395,1.47
+Costco,Kirkland,Chicken Street Taco Kit,Maize (Meal)/Soybean Oil/Tomatoes/Other Vegetables/Citrus Fruit/Poultry Meat/Cheese,0.25/0.05/0.1/0.4/0.1/0.65/0.2,plastic,0.15,100,5.565,0.059,1.58,7.204
+Costco,Kirkland,"Rastelli USDA Choice Black Angus NY CC Strip Steak 10 oz, 7.5 lbs.",Beef (beef herd),0.28,plastic,0.05,50,11.928,0.02,0.79,12.738
+Costco,Kirkland,Organic Kiwi Fruit (2 lb container),Other Fruit,0.9,plastic,0.1,150,0.36,0.039,2.37,2.769
+Costco,Kirkland,"Organic Premium Mushrooms, Large White, 24 oz",Other Vegetables,0.68,plastic,0.08,75,0.204,0.032,1.185,1.421
+Costco,Kirkland,"Spinach & Mozzarella Ravioli, 56 oz.",Wheat & Rye (Bread)/Other Vegetables/Cheese,0.76/0.2/0.2,plastic,0.05,50,4.04,0.02,0.79,4.85
+Costco,Kirkland,Churro,Wheat & Rye (Bread)/Cane Sugar/Soybean Oil,0.25/0.05/0.03,paper,0.02,25,0.329,0.001,0.395,0.725
+Walmart,Great Value,Bananas,Bananas,0.94,plastic,0.01,100,0.376,0.004,1.58,1.96
+Walmart,Great Value,"Frozen Mixed Fruit, 16 oz.",Berries & Grapes/Other Fruit,0.15/0.3,plastic,0.1,75,0.225,0.039,1.185,1.449
+Walmart,Great Value,"Broccoli Stir-Fry, 20 oz.",Root Vegetables/Other Vegetables,0.1/0.45,plastic,0.1,25,0.155,0.039,0.395,0.589
+Walmart,Great Value,"Deli Style Wedges Seasoned Potatoes, 32 oz.",Root Vegetables,0.91,plastic,0.1,25,0.182,0.039,0.395,0.616
+Walmart,Great Value,"Fully Cooked Popcorn Chicken, 25.5 oz.",Wheat & Rye (Bread)/Poultry Meat/Soybean Oil,.13/.59/0.03,plastic,0.1,50,1.895,0.039,0.79,2.724
+PepsiCo,Pepsi,"Pepsi, 20 oz.",Cane Sugar,0.04,plastic,0.05,50,0.02,0.02,0.79,0.83
+PepsiCo,FritoLay,"Lays, 10 oz.",Root Vegetables/Rapeseed Oil,0.24/0.04,plastic,0.03,25,0.148,0.012,0.395,0.555
+PepsiCo,FritoLay,"Fritos, 10 oz.",Wheat & Rye (Bread)/Maize (Meal)/Rapeseed Oil,0.12/0.12/0.04,plastic,0.03,25,0.292,0.012,0.395,0.699
+Nestle,Digiorno,Cheese Stuffed Pepperoni Pizza,Wheat & Rye (Bread)/Tomatoes/Pig Meat/Cheese,0.5/0.15/0.1/0.31,cardboard,0.1,50,6.086,0.065,0.79,6.941
+Nestle,California Pizza Kitchen,BBQ Chicken Crispy Thin Crust Pizza,Wheat & Rye (Bread)/Olive Oil/Tomatoes/Poultry Meat/Cheese,0.5/0.03/0.15/0.1/0.3,cardboard,0.1,50,5.875,0.065,0.79,6.73
+Nestle,Häagen-Dazs,"Vanilla Ice Cream, 28 fl. oz.",Cane Sugar/Milk,0.10/0.73,paper,0.1,75,1.364,0.003,1.185,2.552

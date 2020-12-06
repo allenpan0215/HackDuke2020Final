@@ -1,0 +1,4 @@
+Sources:
+- Production csv: https://data.world/makeovermonday/2020w16
+- Packaging csv: https://www.lumi.com/blog/how-to-estimate-the-carbon-footprint-of-your-packaging
+- CO2 per mile: https://www.globe.gov/explore-science/scientists-blog/archived-posts/sciblog/index.html_p=186.html#:~:text=This%20is%20equivalent%20to%200.12,units%2C%200.28%20kg%20per%20kilometer.
